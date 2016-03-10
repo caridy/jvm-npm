@@ -1,0 +1,22 @@
+{
+  "name": "jvm-npm",
+  "version": "1.0.0-rc-1",
+  "description": "NPM compliant CommonJS module loader for the JVM",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodyn/jvm-npm.git"
+  },
+  "keywords": [
+    "jvm",
+    "npm",
+    "module"
+  ],
+  "author": "Lance Ball <lball@redhat.com>",
+  "bugs": {
+    "url": "https://github.com/nodyn/jvm-npm/issues"
+  },
+  "homepage": "https://github.com/nodyn/jvm-npm#readme"
+}
